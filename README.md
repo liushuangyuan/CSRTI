@@ -81,3 +81,6 @@ make run
 - **Dependencies on External Libraries:** 
   - NetworkX 
   - python-louvain
+
+## Remarks
+- The indexing maintenance function is located within the CSKNI class; users requiring this feature can directly invoke the function through the object.
