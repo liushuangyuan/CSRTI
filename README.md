@@ -83,4 +83,4 @@ make run
   - python-louvain
 
 ## Remarks
-- The indexing maintenance function is located within the CSKNI class; users requiring this feature can directly invoke the function through the object.
+The indexing maintenance function is located within the CSKNI class; users requiring this feature can directly invoke the function through the object.
