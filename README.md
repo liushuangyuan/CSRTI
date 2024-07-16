@@ -1,5 +1,5 @@
 
-# Project Overview
+# Efficient Community Search Based on Relaxed k-Truss Index
 
 This project is managed using a Makefile, supporting simple commands to compile and run the program.
 
